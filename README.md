@@ -29,3 +29,5 @@
 * `src/test/java/playroom/` — Unit-тести для перевірки логіки кімнати та коректності створення об'єктів.
 
 ## Відео
+https://github.com/user-attachments/assets/b5f8f36f-bbf2-4120-a3dd-b76caeaaeefb
+
